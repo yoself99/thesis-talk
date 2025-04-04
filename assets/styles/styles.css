@@ -374,6 +374,7 @@ footer {
     align-items: flex-start; /* จัดให้อยู่ด้านบน */
     text-align: center; /* จัดข้อความให้อยู่กึ่งกลาง */
     height: 100vh; /* ใช้ความสูงเต็มหน้าจอ */
+    padding-top: 20px; /* เพิ่มระยะห่างจากด้านบน */
 }
 
 .project-details h2 {
